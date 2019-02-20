@@ -1,0 +1,23 @@
+{
+  "name": "@happyguestmx/staffapp-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "node init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeh1/happyguestmx-staffapp-init.git"
+  },
+  "author": "Rafael Hernández Larios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeh1/happyguestmx-staffapp-init/issues"
+  },
+  "homepage": "https://github.com/rafaeh1/happyguestmx-staffapp-init#readme",
+  "dependencies": {
+    "fs-extra": "^7.0.1"
+  }
+}
